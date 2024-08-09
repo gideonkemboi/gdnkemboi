@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gideon Kemboi</h1>
-<h3 align="center">A passionate Full-Stack Developer with a strong leaning towards backend development, based in Nairobi, Kenya.</h3>
+<h1 align="center">Hi 👋, I'm Gideon</h1>
+<h3 align="center">A passionate fullstack developer with a strong leaning towards backend development, based in Nairobi, Kenya.</h3>
 
 <!--
 **gdnkemboi/gdnkemboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
