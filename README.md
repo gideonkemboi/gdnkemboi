@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gideon Kemboi</h1>
+<h3 align="center">A passionate fullstack developer from Kenya</h3>
 
 <!--
 **gdnkemboi/gdnkemboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
