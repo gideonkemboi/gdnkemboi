@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gideon</h1>
 <h4>A passionate fullstack developer with a strong leaning towards backend development, based in Nairobi, Kenya. My main tools of trade are React in the front-end and Django and Express in the back-end.</h4>
 
-[![Github](https://img.shields.io/github/followers/gideonkemboi?label=Follow&style=social)](https://github.com/gdnkemboi)
+[![Github](https://img.shields.io/github/followers/gideonkemboi?label=Follow&style=social)](https://github.com/gideonkemboi)
 
 - 🌱 I’m currently learning **TypeScript**
 
